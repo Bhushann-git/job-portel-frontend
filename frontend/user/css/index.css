@@ -1,0 +1,29 @@
+body {
+    background: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-blue {
+    background-color: rgb(0, 255, 255);
+}
+
+.btn-white {
+    background-color: white;
+    color: rgb(0, 247, 255);
+    /* You can add a color for the text on the buttons */
+    border: 5s;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    /* line-height: 80px; */
+    padding: 0 1px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+    color: white;
+    
+}
